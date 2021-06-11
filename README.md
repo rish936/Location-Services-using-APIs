@@ -11,4 +11,4 @@ For this Project, you will have to install the following libraries:
 You will also have to get Bing Maps APIs. This can be generated on official site of bing maps. You will have to create a free account and generate API. Generating API is also free.
 
 You will have to download Chromedriver. It can be downloaded from it's official site for free.
-Then you will have to keep Chromedriver.exe on an executable path. I have kept it in 'C:\\Users\\Your Username\\AppData\\Local\\Programs\\Python\\Python39\\chromedriver.exe'. You may keep it in another location and try.
+Then you will have to keep Chromedriver.exe on an executable path. I have kept it in 'C:\\Users\\Username\\AppData\\Local\\Programs\\Python\\Python39\\chromedriver.exe'. You may keep it in another location and try.
