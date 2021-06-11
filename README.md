@@ -1,6 +1,11 @@
 # Location_based_Services
  This Project uses Bing Maps API to deliver location services
 
+In this project, following three services are provided:
+1. Getting user location
+2. Getting any location searched by user
+3. Getting directions between source and destination searched by user
+
 For this Project, you will have to install the following libraries:
 1. Selenium `pip install selenium` :
     This library is used for testing of web applications
